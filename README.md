@@ -2,7 +2,7 @@
 # AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
----
+--
 
 # Equipments Required
 1. LASER Source (633 nm – 1mW)  
